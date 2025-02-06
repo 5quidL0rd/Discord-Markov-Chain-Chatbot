@@ -1,0 +1,1 @@
+This Discord chatbot uses markov chains to generate text based off messages sent from human users. He also will provide links, when requested, to various sources such as 3Blue1Brown. Also, if asked he will spit out some launch and space facts. 
